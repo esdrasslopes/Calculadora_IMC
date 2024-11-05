@@ -24,3 +24,4 @@ A calculadora de IMC permite que os usuários:
 
 ## Como Usar
 Acesse o link: https://esdrasslopes.github.io/Calculadora_IMC/
+
